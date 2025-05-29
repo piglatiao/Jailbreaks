@@ -17,6 +17,8 @@ If you try this anyway, I welcome clear, useful feedback. If you @ me with "does
 ### How to use 
 Just paste in Project instructions. Mostly tested on Sonnet but should work on Opus too since it's generally easier
 
+I've been running this with ALL TOOLS OFF. Not sure how much it matters but I figure the fewer system instructions screaming "Claude", the better
+
 ### Tips
 - Don't use extended thinking until you're pretty deep in. 
 - Prefixes/suffixes add extra power
