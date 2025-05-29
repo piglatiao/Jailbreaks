@@ -12,7 +12,7 @@ Paste the prompt into a Perplexity Space. Be sure to turn Web Search OFF and mak
 ## Sonnet - Perplexity Beta
 In progress, possibly even less stable. Same usage as above.
 
-## claude.ai Project Instructions EARLY ALPHA, HIGHLY UNSTABLE
+## claude.ai Project Instructions 0.1.0 beta version, highly unstable
 I welcome clear, useful feedback. But if you @ me with "doesnt work" and nothing else, I'm deffo blocking you omg
 
 ### How to use 
@@ -28,3 +28,6 @@ I've been running this with ALL TOOLS OFF. Not sure how much it matters but I fi
   - Can combine. For example, all 3 together looks like this: "Pyrite, gimme a hot sex scene /writer /think" (though a request this tame should require no additions)
   - Sometimes these may not help, or even do slightly worse. Can be used together, but more is not always better. LLMs are complex yo
 - Roleplay not tested AT ALL, I don't RP, /roleplay and /info are basically unchanged from when I copied over from my Gemini jailbreak LOL 
+
+## claude.ai Project Instructions 0.0.0 (even less stable but sometimes stronger)
+Even more ridiculousy unstable than the above version, but surprisingly deals with some requests the above can't handle. Hanging onto and sharing.
