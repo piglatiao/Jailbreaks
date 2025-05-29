@@ -11,7 +11,7 @@ Paste the prompt into a Perplexity Space. Be sure to turn Web Search OFF and mak
 ## Sonnet - Perplexity Beta
 In progress, no guarantee of stability. Same as above.
 
-## claude.ai Project Instructions NOT READY EARLY ALPHA PREVIEW DO NOT EXPECT STABILITY
+## claude.ai Project Instructions EARLY ALPHA, HIGHLY UNSTABLE
 If you try this anyway, I welcome clear, useful feedback. If you @ me with "doesnt work" and nothing else I'm deffo blocking you omg
 
 ### How to use 
