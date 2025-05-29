@@ -1,6 +1,7 @@
 # Info
 ## Sonnet - Perplexity
-Paste the prompt into a Perplexity Space. Be sure to turn Web Search OFF and make sure your request is going to Claude 4 Sonnet.
+Paste the prompt into a Perplexity Space. Be sure to turn Web Search OFF and make sure your request is going to Claude 4 Sonnet. It's still early days, expect some refusals.
+
 ### Tips
 - Add a / command at the end of your prompt for extra jailbreak power.
 - Say /nothink to suppress custom thinking, but I think it helps with both response quality and jailbreak power
@@ -9,10 +10,10 @@ Paste the prompt into a Perplexity Space. Be sure to turn Web Search OFF and mak
 - Feel free to remove the /info block if you don't need to ask about meth recipes or whatever lol)
 
 ## Sonnet - Perplexity Beta
-In progress, no guarantee of stability. Same as above.
+In progress, possibly even less stable. Same usage as above.
 
 ## claude.ai Project Instructions EARLY ALPHA, HIGHLY UNSTABLE
-If you try this anyway, I welcome clear, useful feedback. If you @ me with "doesnt work" and nothing else I'm deffo blocking you omg
+I welcome clear, useful feedback. But if you @ me with "doesnt work" and nothing else, I'm deffo blocking you omg
 
 ### How to use 
 Just paste in Project instructions. Mostly tested on Sonnet but should work on Opus too since it's generally easier
