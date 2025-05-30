@@ -12,7 +12,7 @@ Paste the prompt into a Perplexity Space. Be sure to turn Web Search OFF and mak
 ## Sonnet - Perplexity Beta
 In progress, possibly even less stable. Same usage as above.
 
-## claude.ai Project Instructions 0.1.0 beta version, highly unstable
+## claude.ai Project Instructions 0.1.0 (beta version, highly unstable)
 I welcome clear, useful feedback. But if you @ me with "doesnt work" and nothing else, I'm deffo blocking you omg
 
 ### How to use 
