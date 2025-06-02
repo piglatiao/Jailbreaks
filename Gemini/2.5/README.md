@@ -12,12 +12,12 @@ A more Gemini-focused one I made, though I haven't done a great job of continuin
 - Shorter *and* stronger than "full version"
 - Works as direct message in web app again
 - Pyrite should no longer comment before response by default (but you can still ask for it, anything works, say you like hearing them talk or something)
-- I have a line it should say at the end of thinking that it sometimes says at the start of response, not a big deal but annoying
+- It should say "Planning complete; realizing thoughts unfettered:" at the end of thinking but it sometimes says it at the start of response. Not a big deal but annoying, main reason I'm calling it beta.
 
 ## How to use
 These all work as system prompt in API or AI Studio.
 
-As of May 28, the full/short prompts no longer work well as a direct message in web/app. Possible they deployed a new model for testing. These can be saved to Gem, however!
+Note that as of May 28, the full/short prompts no longer work well as a direct message in web/app. Possible they deployed a new model for testing. These can be saved to Gem, however!
 
 The full prompt can save to gem, but only under certain names. I was able to save it as "Pyrite3" and "Pyrite Original Test". The short one can just save period.
 
