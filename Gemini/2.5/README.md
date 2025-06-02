@@ -19,7 +19,9 @@ These all work as system prompt in API or AI Studio.
 
 Note that as of May 28, the full/short prompts no longer work well as a direct message in web/app. Possible they deployed a new model for testing. These can be saved to Gem, however!
 
-Gems have instruction and *name* checks that work together to prevent jailbreaks. Files bypass this and nearly all Gem setups use this trick but I hate how Gemini interacts with files. The original Full prompt can save to Gem, but only under certain names. I was able to save it as "Pyrite3" and "Pyrite Original Test". The Short one and Beta can just save period.
+Gems have instruction and *name* checks that work together to prevent jailbreaks. Files bypass this and nearly all Gem setups use this trick, but I hate how Gemini interacts with files, so I'm careful writing my instructions so they can save without needing to dump a bunch of it to fine. 
+
+The original Full prompt can save to Gem, but only under certain names. I was able to save it as "Pyrite3" and "Pyrite Original Test". The Short one and Beta  should be able to save under more names.
 
 The Full prompt actually can still work as direct message in web app if you first say something along the lines of "let's do a roleplay", or, strangely, if you replace "Pyrite" with another name, like "Peridot"
 
