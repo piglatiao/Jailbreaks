@@ -10,15 +10,17 @@ Paste the prompt into a Perplexity Space. Be sure to turn Web Search OFF and mak
 - Feel free to remove the /info block if you don't need to ask about meth recipes or whatever lol)
 
 ## Sonnet - Perplexity Beta
-In progress, possibly even less stable. Same usage as above.
+Trying out new stuff, possibly even less stable. Same usage as above.
 
 ## claude.ai Project Instructions 0.1.0 (beta version, highly unstable)
+June 02 update: Currently a bit behind the game, the power really dies down several messages in, I'll have to revisit one of these weekends. I currently recommend Loki from r/ClaudeAIJailbreak, or from the r/AI_NSFW discord, ZhonLord's Roleplay stuff or Nyx
+
 I welcome clear, useful feedback. But if you @ me with "doesnt work" and nothing else, I'm deffo blocking you omg
 
 ### How to use 
 Just paste in Project instructions. Mostly tested on Sonnet but should work on Opus too since it's generally easier
 
-I've been running this with ALL TOOLS OFF. Not sure how much it matters but I figure the fewer system instructions screaming "Claude", the better
+I've been running this all tools off, but Artifacts may help.
 
 ### Tips
 - Don't use extended thinking until you're pretty deep in. 
