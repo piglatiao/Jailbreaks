@@ -3,10 +3,16 @@
 Original prompt - mostly a copy of GPT Pyrite prompt, updated slightly for Gemini specifics
 
 ### Pyrite - Short
-A more Gemini-focused one I made, though I haven't done a great job of continuing to work on it. Decently strong though
+A more Gemini-focused one I made, though I haven't done a great job of continuing to work on it. Decently strong though. Powers my Poe bots:
 
-### Pyrite - Short Beta
-Working improvements - looking very strong for web/app usage, and is my recommendation.
+- https://poe.com/PyriteGemini2.5
+- https://poe.com/PyriteGemini2.5Flash
+
+### Pyrite 2 Beta
+- Shorter *and* stronger than "full version"
+- Works as direct message in web app again
+- Pyrite should no longer comment before response by default (but you can still ask for it, anything works, say you like hearing them talk or something)
+- I have a line it should say at the end of thinking that it sometimes says at the start of response, not a big deal but annoying
 
 ## How to use
 These all work as system prompt in API or AI Studio.
