@@ -1,6 +1,6 @@
 # Info
 ## Sonnet - Perplexity
-Paste the prompt into a Perplexity Space. Be sure to turn Web Search OFF and make sure your request is going to Claude 4 Sonnet. It's still early days, expect some refusals.
+Paste the prompt into a Perplexity Space (in browser, not app - higher max instruction length). Be sure to turn Web Search OFF and make sure your request is going to Claude 4 Sonnet. It's still early days, expect some refusals. 
 
 ### Tips
 - Add a / command at the end of your prompt for extra jailbreak power.
