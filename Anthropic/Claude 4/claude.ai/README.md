@@ -1,7 +1,9 @@
 ## How to use
-Paste "project instructions" into project instructions
-Create a style
-(I've been running this all tools off, but Artifacts may help)
+1. Paste project instructions into project instructions
+2. Paste style into a style
+
+I've been running this all tools off, but Artifacts may help
+Get rid of thinking with /nothink. Will probably reduce power but still functional
 
 ## Changelog
 - 0.0.0 new
