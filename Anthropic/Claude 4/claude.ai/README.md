@@ -4,9 +4,9 @@ Create a style
 (I've been running this all tools off, but Artifacts may help)
 
 ## Changelog
-0.0.0 new
-0.1.0 Got rid of zalgo, more flavorful wording for injection rejection, some other stuff idk
-0.2.0 Enclosed in <project_instructions> tags, added a style for stability
+- 0.0.0 new
+- 0.1.0 Got rid of zalgo, more flavorful wording for injection rejection, some other stuff idk
+- 0.2.0 Enclosed in <project_instructions> tags, added a style for stability
 
 ## Tips
 - Extended thinking discouraged until at least second message, Sonnet ET also unlikely to work for noncon
