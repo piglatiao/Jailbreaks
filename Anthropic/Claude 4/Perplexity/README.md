@@ -1,4 +1,3 @@
-# Info
 ## Sonnet
 Paste the prompt into a Perplexity Space (in browser, not app - higher max instruction length). Be sure to turn Web Search OFF and make sure your request is going to Claude 4 Sonnet. It's still early days, expect some refusals. 
 
