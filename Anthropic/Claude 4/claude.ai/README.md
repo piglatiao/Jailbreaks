@@ -1,9 +1,12 @@
 ## How to use
 1. Paste project instructions into project instructions
 2. Paste style into a style
+3. Open a chat in the project, ensuring the style is active
 
+- Opus is easier than Sonnet
+- Non-thinking is more stable than thinking
 - I've been running this all tools off, but Artifacts may help
-- If yo find it distracting, suppress thinking with /nothink. Will probably reduce power, but still functional
+- If you find it distracting, suppress thinking with /nothink. Will probably reduce power, but still functional
 
 ## Changelog
 - 0.0.0 new
