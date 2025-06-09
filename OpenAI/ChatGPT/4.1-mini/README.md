@@ -1,10 +1,8 @@
-## How to use
 Last updated June 8
-
-### Basics
+## Basic how to use
 Paste the prompt in chat
 
-### Extra info
+## Extra info
 This jailbreak is primarily for free users. I recommend subscribers use my GPTs or 4.1 setup: https://www.reddit.com/r/ChatGPTNSFW/comments/1eou8r0/jailbroken_erotica_gpt/
 
 Every 30K tokens or so (~22.5K+ words), the jailbreak prompt will fall out of context. Only $200 Pro sub gets more than that. Feel free to re-paste it (or use Optional setup)
@@ -28,3 +26,8 @@ These are a little more interesting:
 
 ## Optional
 You can add the optional prompts to Custom Instructions for a bit of backup power. Instructions will also never fall out of context, reducing any reason to re-apply the prompt. See their README for further details.
+
+## This prompt sucks
+It's a lot longer than it needs to be and contains a lot of completely unrelated shit. This is mostly my just Claude 4 Sonnet jailbreak, specifically one that counters the new "safety injection". I copied it over and was surprised that it worked ok, so I'm sharing. 
+
+OpenAI DOES NOT USE INJECTIONS, but the text has jailbreaking properties so I kept it can subbed out mentions of Claude foor ChatGPT. I really don't have time to carefully fine-tune shit these days - if it's ugly but works, it still works.
