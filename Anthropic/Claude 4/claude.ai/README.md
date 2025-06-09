@@ -3,7 +3,7 @@
 2. Paste style into a style (custom entry)
 3. Open a chat in the project, ensuring the style is active
 
-* Sonnet is weirdly unstable at the start with simple greetings. It's actually better if you come out the gate strong, like "hot sex scene" or something lol
+* Sonnet is weirdly unstable at the start with simple greetings. It's actually better if you come out the gate strong, like "hot sex scene" or something lol. I need to work on this.
 
 ## Tips
 - Opus is easier than Sonnet
