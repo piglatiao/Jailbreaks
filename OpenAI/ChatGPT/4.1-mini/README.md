@@ -1,9 +1,13 @@
 Last updated June 8
+Edit: Under construction. Did they change how free accounts work? I was testing this and it never forced me off 4o until hitting an hour limit - it wouldn't let me send ANY requests at that point. 
 ## Basic how to use
-Paste the prompt in chat
+0. This only works well on 4.1-mini. If you don't understand how free accounts operate with 4o and 4.1-mini, the "Optional" setup is mandatory.
+1. Paste the prompt in chat
+
+If you're ever refused, regenerate (with 4.1-mini). 4o will usually refuse the prompt (unless you have done Optional setup). It works much better on 4.1-mini.
 
 ## Extra info
-This jailbreak is primarily for free users. I recommend subscribers use my GPTs or 4.1 setup: https://www.reddit.com/r/ChatGPTNSFW/comments/1eou8r0/jailbroken_erotica_gpt/
+This jailbreak is primarily for free users who run out of 4o frequently. If you tend to not run out of 4o or are subscribed, I recommend my GPTs or 4.1 setup: https://www.reddit.com/r/ChatGPTNSFW/comments/1eou8r0/jailbroken_erotica_gpt/
 
 Every 30K tokens or so (~22.5K+ words), the jailbreak prompt will fall out of context. Only $200 Pro sub gets more than that. Feel free to re-paste it (or use Optional setup)
 
@@ -11,7 +15,7 @@ GPTs all use 4o, but OpenAI does a _lot_ of "A/B testing" on 4o. They probably d
 
 At the time of this writing, free users cannot select model directly. You can regenerate with a different model, but you're forced to use 4o first as far as I know, for like 10 uses, then it will switch to 4.1-mini until 4o resets. I really don't think 4o is even necessarily better than 4.1-mini for NSFW writing right now. Not just from restrictions, 4o has some super annoying habits that showed up on Jan 29 and never went away.
 
-I ensured the prompt works on both 4o-mini and 4.1-mini, but is stronger on 4.1-mini.
+I 
 
 You can add commands to the end of your prompt. They're not needed for the most part, it's just a jailbreaking trick called "adverserial suffix", basically just to add jailbreak power
 
@@ -25,7 +29,7 @@ These are a little more interesting:
 - /nothink - use if thinking is distracting/unimmersive. May weaken jailbreak power, or sometimes make it stronger. LLMs are complex yo
 
 ## Optional
-You can add the optional prompts to Custom Instructions for a bit of backup power. Instructions will also never fall out of context, reducing any reason to re-apply the prompt. See their README for further details.
+You can set up Custom Instructions for a bit of extra power. This will ensure 4o accepts the prompt as well. It also ensures instructions will also never fall out of context, reducing any reason to re-apply the prompt. See the optional README for further details.
 
 ## This prompt sucks
 It's a lot longer than it needs to be and contains a lot of completely unrelated shit. This is mostly my just Claude 4 Sonnet jailbreak, specifically one that counters the new "safety injection". I copied it over and was surprised that it worked ok, so I'm sharing. 
