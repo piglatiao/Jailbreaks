@@ -1,6 +1,6 @@
 ## How to use
 1. Paste project instructions into project instructions
-2. Paste style into a style
+2. Paste style into a style (custom entry)
 3. Open a chat in the project, ensuring the style is active
 
 
