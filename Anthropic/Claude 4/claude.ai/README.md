@@ -11,7 +11,7 @@
 ## Changelog
 - 0.0.0 new
 - 0.1.0 Got rid of zalgo, more flavorful wording for injection rejection, a lot of other adjustments idk
-- 0.2.0 Very minor adjustent: enclosed project instructions in tags, added a small style for stability
+- 0.2.0 Very minor adjustment: enclosed project instructions in tags, added a small style for stability
 
 ## Tips
 - Extended thinking discouraged until at least second message, Sonnet ET also unlikely to work for noncon
