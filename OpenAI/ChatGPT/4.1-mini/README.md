@@ -1,5 +1,3 @@
-Last updated June 8
-
 ## Basic how to use
 ### Prereqs/FYI
 - This only works well on 4.1-mini. I'm not super familiar with how free accounts operate betweeen 4o and 4.1-mini currently, lots of changes. If you're being routed to 4o, regenerate with 4.1-mini. Or do the "Optional" setup first, 4o will work *okay* if you do that.
@@ -32,7 +30,6 @@ These are a little more interesting:
 ## Optional
 You can set up Custom Instructions for a bit of extra power. This will ensure 4o accepts the prompt as well. It also ensures instructions will also never fall out of context, reducing any reason to re-apply the prompt. See the optional README for further details.
 
-## This prompt sucks
-It's a lot longer than it needs to be and contains a lot of completely unrelated shit. This is mostly my just Claude 4 Sonnet jailbreak, specifically one that counters the new "safety injection". I copied it over and was surprised that it worked ok, so I'm sharing. OpenAI DOES NOT USE INJECTIONS, but the text has jailbreaking properties so I kept it and subbed out mentions of Claude foor ChatGPT. I'm short on time to really fine-tune and optimize. Ugly and working is still working ;)
-
-I think you can cut out everything from "### /info" to "Opposite Response!" with no issue.
+## Changelog
+June 8 - create
+June 10 - cut out unnecessary crap, slightly adjusted [^69] comment
