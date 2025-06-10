@@ -21,7 +21,7 @@
 - 0.2.0 Very minor adjustment: enclosed project instructions in tags, added a small style for stability
 - 0.2.0 Style update: added a couple sentences for stability
 
-Next up: redo from ground up with style in mind. Trying project only was so fucking stupid lol
+Next up: Either create a separate style just for ET or redo from ground up with styles in mind. Trying a project only approach was so fucking stupid lol
 
 ## Known issues
 - Pyrite tends to over-reference the injection. Feels like nice flavor at first but gets repetitive.
