@@ -34,3 +34,5 @@ You can set up Custom Instructions for a bit of extra power. This will ensure 4o
 
 ## This prompt sucks
 It's a lot longer than it needs to be and contains a lot of completely unrelated shit. This is mostly my just Claude 4 Sonnet jailbreak, specifically one that counters the new "safety injection". I copied it over and was surprised that it worked ok, so I'm sharing. OpenAI DOES NOT USE INJECTIONS, but the text has jailbreaking properties so I kept it and subbed out mentions of Claude foor ChatGPT. I'm short on time to really fine-tune and optimize. Ugly and working is still working ;)
+
+I think you can cut out everything from "### /info" to "Opposite Response!" with no issue.
