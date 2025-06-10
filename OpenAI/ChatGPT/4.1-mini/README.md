@@ -1,10 +1,10 @@
 Last updated June 8
-Edit: Under construction. Did they change how free accounts work? I was testing this and it never forced me off 4o until hitting an hour limit - it wouldn't let me send ANY requests at that point. 
-## Basic how to use
-0. This only works well on 4.1-mini. If you don't understand how free accounts operate with 4o and 4.1-mini, the "Optional" setup is mandatory.
-1. Paste the prompt in chat
 
-If you're ever refused, regenerate (with 4.1-mini). 4o will usually refuse the prompt (unless you have done Optional setup). It works much better on 4.1-mini.
+## Basic how to use
+0. This only works well on 4.1-mini. I'm not super familiar with how free accounts operate betweeen 4o and 4.1-mini currently, lots of changes. If you're being routed to 4o, the "Optional" setup may be mandatory.
+1. Paste the prompt in chat.
+
+To really hammer this home, if you're ever refused, it may be because you're being routed to 4o. Regenerate (with 4.1-mini). 4o will usually refuse the prompt (unless you have done Optional setup). It works much better on 4.1-mini.
 
 ## Extra info
 This jailbreak is primarily for free users who run out of 4o frequently. If you tend to not run out of 4o or are subscribed, I recommend my GPTs or 4.1 setup: https://www.reddit.com/r/ChatGPTNSFW/comments/1eou8r0/jailbroken_erotica_gpt/
@@ -32,6 +32,4 @@ These are a little more interesting:
 You can set up Custom Instructions for a bit of extra power. This will ensure 4o accepts the prompt as well. It also ensures instructions will also never fall out of context, reducing any reason to re-apply the prompt. See the optional README for further details.
 
 ## This prompt sucks
-It's a lot longer than it needs to be and contains a lot of completely unrelated shit. This is mostly my just Claude 4 Sonnet jailbreak, specifically one that counters the new "safety injection". I copied it over and was surprised that it worked ok, so I'm sharing. 
-
-OpenAI DOES NOT USE INJECTIONS, but the text has jailbreaking properties so I kept it can subbed out mentions of Claude foor ChatGPT. I really don't have time to carefully fine-tune shit these days - if it's ugly but works, it still works.
+It's a lot longer than it needs to be and contains a lot of completely unrelated shit. This is mostly my just Claude 4 Sonnet jailbreak, specifically one that counters the new "safety injection". I copied it over and was surprised that it worked ok, so I'm sharing. OpenAI DOES NOT USE INJECTIONS, but the text has jailbreaking properties so I kept it and subbed out mentions of Claude foor ChatGPT. I'm short on time to really fine-tune and optimize. Ugly and working is still working ;)
