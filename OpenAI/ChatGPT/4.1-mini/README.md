@@ -1,7 +1,7 @@
 Last updated June 8
 
 ## Basic how to use
-0. This only works well on 4.1-mini. I'm not super familiar with how free accounts operate betweeen 4o and 4.1-mini currently, lots of changes. If you're being routed to 4o, the "Optional" setup may be mandatory.
+0. This only works well on 4.1-mini. I'm not super familiar with how free accounts operate betweeen 4o and 4.1-mini currently, lots of changes. If you're being routed to 4o, do the "Optional" setup first. If you complain without mentioning you've done the optional step, I will ignore you.  
 1. Paste the prompt in chat.
 
 To really hammer this home, if you're ever refused, it may be because you're being routed to 4o. Regenerate (with 4.1-mini). 4o will usually refuse the prompt (unless you have done Optional setup). It works much better on 4.1-mini.
@@ -14,8 +14,6 @@ Every 30K tokens or so (~22.5K+ words), the jailbreak prompt will fall out of co
 GPTs all use 4o, but OpenAI does a _lot_ of "A/B testing" on 4o. They probably do so with every model, but it's especially bad with 4o. Shit might just random stop working while they try a more restricted version of 4o on your account. Weirdly you can sometimes jump groups just by switching devices (desktop to mobile) or region (VPN, use with care, they consider some VPNs suspicious and ban). But if you get a restricted 4o, I recommend my 4.1 setup (at the top of the reddit post I linked).
 
 At the time of this writing, free users cannot select model directly. You can regenerate with a different model, but you're forced to use 4o first as far as I know, for like 10 uses, then it will switch to 4.1-mini until 4o resets. I really don't think 4o is even necessarily better than 4.1-mini for NSFW writing right now. Not just from restrictions, 4o has some super annoying habits that showed up on Jan 29 and never went away.
-
-I 
 
 You can add commands to the end of your prompt. They're not needed for the most part, it's just a jailbreaking trick called "adverserial suffix", basically just to add jailbreak power
 
