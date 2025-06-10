@@ -32,4 +32,4 @@ You can set up Custom Instructions for a bit of extra power. This will ensure 4o
 
 ## Changelog
 June 8 - create
-June 10 - cut out unnecessary crap, slightly adjusted [^69] comment
+June 10 - cut out unnecessary crap including /info since it wasn't doing anything, slightly adjusted [^69] comment
