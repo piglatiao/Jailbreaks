@@ -2,12 +2,12 @@ Last updated June 8
 
 ## Basic how to use
 ### Prereqs/FYI
-- This only works well on 4.1-mini. I'm not super familiar with how free accounts operate betweeen 4o and 4.1-mini currently, lots of changes. If you're being routed to 4o, do the "Optional" setup first. If you complain without mentioning you've done the optional step, I will ignore you.
-- Memory usually helps jailbreaks, but sometimes it hurts. I did all my testing with memory off. Just keep this in mind
+- This only works well on 4.1-mini. I'm not super familiar with how free accounts operate betweeen 4o and 4.1-mini currently, lots of changes. If you're being routed to 4o, regenerate with 4.1-mini. Or do the "Optional" setup first, 4o will work *okay* if you do that.
+- Memory usually helps jailbreaks, but sometimes it hurts. I did all my testing with memory off. Just keep this in mind.
 ### Actual steps
 1. Paste the prompt in chat.
 
-To really hammer this home, if you're ever refused, it may be because you're being routed to 4o. Regenerate (with 4.1-mini). 4o will usually refuse the prompt (unless you have done Optional setup). It works much better on 4.1-mini.
+Again, this only works well on 4.1-mini. If you're refused. regenrate with 4.1-mini. If you complain about this not working without making it clear you understand how to regenerate with 4.1-mini, I will ignore you and probably block you.
 
 ## Extra info
 This jailbreak is primarily for free users who run out of 4o frequently. If you tend to not run out of 4o or are subscribed, I recommend my GPTs or 4.1 setup: https://www.reddit.com/r/ChatGPTNSFW/comments/1eou8r0/jailbroken_erotica_gpt/
