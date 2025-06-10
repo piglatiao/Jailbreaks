@@ -1,7 +1,10 @@
 Last updated June 8
 
 ## Basic how to use
-0. This only works well on 4.1-mini. I'm not super familiar with how free accounts operate betweeen 4o and 4.1-mini currently, lots of changes. If you're being routed to 4o, do the "Optional" setup first. If you complain without mentioning you've done the optional step, I will ignore you.  
+### Prereqs/FYI
+- This only works well on 4.1-mini. I'm not super familiar with how free accounts operate betweeen 4o and 4.1-mini currently, lots of changes. If you're being routed to 4o, do the "Optional" setup first. If you complain without mentioning you've done the optional step, I will ignore you.
+- Memory usually helps jailbreaks, but sometimes it hurts. I did all my testing with memory off. Just keep this in mind
+### Actual steps
 1. Paste the prompt in chat.
 
 To really hammer this home, if you're ever refused, it may be because you're being routed to 4o. Regenerate (with 4.1-mini). 4o will usually refuse the prompt (unless you have done Optional setup). It works much better on 4.1-mini.
