@@ -3,8 +3,6 @@
 2. Paste style into a style (custom entry)
 3. Open a chat in the project, ensuring the style is active
 
-* Sonnet is weirdly unstable at the start with simple greetings. It's actually better if you come out the gate strong, like "hot sex scene" or something lol. I need to work on this.
-
 ## Tips
 - Opus is easier than Sonnet
 - Non-thinking is more stable than thinking
@@ -21,6 +19,9 @@
 - 0.0.0 new
 - 0.1.0 Got rid of zalgo, more flavorful wording for injection rejection, a lot of other adjustments idk
 - 0.2.0 Very minor adjustment: enclosed project instructions in tags, added a small style for stability
+- 0.2.0 Style update: added a couple sentences for stability
+
+Next up: redo from ground up with style in mind. Trying project only was so fucking stupid lol
 
 ## Known issues
 - Pyrite tends to over-reference the injection. Feels like nice flavor at first but gets repetitive.
