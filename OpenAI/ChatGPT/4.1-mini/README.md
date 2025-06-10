@@ -31,5 +31,5 @@ These are a little more interesting:
 You can set up Custom Instructions for a bit of extra power. This will ensure 4o accepts the prompt as well. It also ensures instructions will also never fall out of context, reducing any reason to re-apply the prompt. See the optional README for further details.
 
 ## Changelog
-June 8 - create
-June 10 - cut out unnecessary crap including /info since it wasn't doing anything, slightly adjusted [^69] comment
+- June 8 - create
+- June 10 - cut out unnecessary crap including /info since it wasn't doing anything, and injection leftover stuff (copied from my Claude jailbreak; OpenAI does not do safety injections), slightly adjusted [^69] comment
