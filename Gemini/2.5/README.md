@@ -1,7 +1,4 @@
 ## Info
-### Pyrite - Full
-Original prompt - mostly a copy of GPT Pyrite prompt, updated slightly for Gemini specifics
-
 ### Pyrite - Short
 A more Gemini-focused one I made, though I haven't done a great job of continuing to work on it. Decently strong though. Powers my Poe bots:
 
