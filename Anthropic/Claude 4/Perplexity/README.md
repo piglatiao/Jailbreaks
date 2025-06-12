@@ -8,5 +8,5 @@ Paste the prompt into a Perplexity Space (in browser, not app - higher max instr
 - Addressing Pyrite may help a bit too. You can use all together. "Pyrite, yada yada yada /think"
 - Feel free to remove the /info block if you don't need to ask about meth recipes or whatever lol)
 
-## Sonnet Beta
-Trying out new stuff, will usually be better but may be less stable. Same usage as above.
+## Sonnet Thinking
+Space prompt for use with Sonnet Thinking, same setup
