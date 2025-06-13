@@ -1,4 +1,4 @@
-Note: These also work decently on API. Especially the Thinking one!
+Note: These also work decently on API. Especially the Thinking one! Just put it in the system prompt of your preferred platform.
 
 # Perplexity fun facts
 You can get annual codes for <$5 on sites like g2g
