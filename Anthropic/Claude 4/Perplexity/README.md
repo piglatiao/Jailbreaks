@@ -8,5 +8,5 @@ Paste the prompt into a Perplexity Space (in browser, not app - higher max instr
 - Addressing Pyrite may help a bit too. You can use all together. "Pyrite, yada yada yada /think"
 - Feel free to remove the /info block if you don't need to ask about meth recipes or whatever lol)
 
-## Sonnet Thinking
+## Sonnet Thinking (way stronger)
 Space prompt for use with Sonnet Thinking, same setup. /think and /nothink are not available, I'm not sure any of the commands do much with this one. Haven't tested much but it seems very strong, I dub it the strongest Pplx setup
