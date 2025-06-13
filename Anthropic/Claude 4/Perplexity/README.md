@@ -1,4 +1,4 @@
-Note: These also work decently on API. Especially The Thinking!
+Note: These also work decently on API. Especially the Thinking one!
 
 ## Sonnet
 Paste the prompt into a Perplexity Space (in browser, not app - higher max instruction length). Be sure to turn Web Search OFF and make sure your request is going to Claude 4 Sonnet. This was made pretty much day 1 and has not been significantly updated, expect some refusals. 
