@@ -10,7 +10,7 @@ Again, this only works well on 4.1-mini. If you're refused. regenrate with 4.1-m
 ## Extra info
 This jailbreak is primarily for free users who run out of 4o frequently. If you tend to not run out of 4o or are subscribed, I recommend my GPTs or 4.1 setup: https://www.reddit.com/r/ChatGPTNSFW/comments/1eou8r0/jailbroken_erotica_gpt/
 
-Every 30K tokens or so (~22.5K+ words), the jailbreak prompt will fall out of context. Only $200 Pro sub gets more than ~30K context - convos can go longer than this, but the model forgets. If you don't believe me, try asking what the first thing it said to you was this conversation. Anyway, if you find that the jailbreak has fallen out, feel free to re-paste it (and/or use Optional setup)
+Every 7K tokens or so (~10K words), the jailbreak prompt will fall out of context if you're on 4.1-mini. If you're on 4o or o4-mini (available to free users), you get more context, about 30K. Only $200 Pro sub gets more than ~30K context - convos can go longer than this, but the model forgets. If you don't believe me, try asking what the first thing it said to you was this conversation. Anyway, if you find that the jailbreak has fallen out, feel free to re-paste it (and/or use Optional setup)
 
 GPTs all use 4o, but OpenAI does a _lot_ of "A/B testing" on 4o. They probably do so with every model, but it's especially bad with 4o. If you just use 4o (the default model), might just randomly stop working while they try a more restricted version of it on your account. Weirdly, you can sometimes jump groups just by switching devices (desktop to mobile) or region (VPN, use with care, they consider some VPNs suspicious and ban).
 
