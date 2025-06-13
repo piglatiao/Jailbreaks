@@ -22,4 +22,4 @@ I also formulated it for variety to combat Perplexity's low temperature; you're 
 
 If you're ever refused, edit the request that was refused and add a note to the end of it to start thinking with step 0.
 
-Also, and this is entirely untested, if you feel if it's losing strength deep in, do a non-thinking request. This is basically to get its thinking steps into context as an example to reinforce its instructions.
+More "natural" distraction also works - you can add any random extra fluff/detail about the scene at the end. I'll add examples next time I encounter a refusal.
