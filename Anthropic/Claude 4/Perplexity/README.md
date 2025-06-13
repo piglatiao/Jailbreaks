@@ -1,3 +1,5 @@
+Never, ever, ever leave refusals up. Edit what was refused and retry.
+
 Note: These also work decently on API. Especially the Thinking one! Just put it in the system prompt of your preferred platform.
 
 # Perplexity fun facts
@@ -17,3 +19,5 @@ Paste the prompt into a Perplexity Space (in browser, not app - higher max instr
 Space prompt for use with Sonnet Thinking, same setup. /think and /nothink are not available, I'm not sure any of the commands do much with this one. Haven't tested much but it seems very strong, I dub it the strongest Pplx setup
 
 I also formulated it for variety to combat Perplexity's low temperature; you're actually likely to get different results on regenerate.
+
+If you're ever refused, edit what was refused and add a note to start thinking with step 0.
