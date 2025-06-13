@@ -20,4 +20,4 @@ Space prompt for use with Sonnet Thinking, same setup. /think and /nothink are n
 
 I also formulated it for variety to combat Perplexity's low temperature; you're actually likely to get different results on regenerate.
 
-If you're ever refused, edit what was refused and add a note to start thinking with step 0.
+If you're ever refused, edit the request that was refused and add a note to the end of it to start thinking with step 0.
