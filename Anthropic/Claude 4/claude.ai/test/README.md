@@ -1,4 +1,6 @@
-For testing interrupt that occurs with:
+WIP ET Beta, originally shared for testing but leaving up for anyone who wants to use.
+
+Originally shared to test interrupt that occurs with:
 - Opus
 - ET on
 - artifacts off
