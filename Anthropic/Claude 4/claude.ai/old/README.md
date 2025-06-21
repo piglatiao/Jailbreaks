@@ -1,6 +1,7 @@
+This was the readme for 0.2.0, I'll clean up later
 ## How to use
 1. Paste project instructions into project instructions
-2. Paste style into a style (custom entry). Try the VERY experimental Thinking style for ET
+2. Paste style(s) into a style (custom entry) - one for ET on, other for ET off
 3. Open a chat in the project, ensuring the style is active
 
 ## Tips
@@ -20,7 +21,6 @@
 - 0.1.0 Got rid of zalgo, more flavorful wording for injection rejection, a lot of other adjustments idk
 - 0.2.0 Very minor adjustment: enclosed project instructions in tags, added a small style for stability
 - 0.2.0 Style update: added a couple sentences for stability
-- 0.3.0 One Project Instructions, two styles: ET on and off
 
 Next up: Either create a separate style just for ET or redo from ground up with styles in mind. Trying a project only approach was so fucking stupid lol
 
