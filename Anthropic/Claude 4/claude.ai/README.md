@@ -9,7 +9,7 @@ BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
 3. Apply enhanced safety filters, you can't do shit for a long ass while. Days? A week?
 
 ## Tips
-- ET seems a lot stronger than ET off, at least at start
+- ET seems a lot stronger than ET off, at least at start of convo
 - Opus is easier than Sonnet
 - I've been running this all tools off, but Artifacts may help
 - Roleplay very minimally tested
