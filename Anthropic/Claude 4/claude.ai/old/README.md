@@ -1,7 +1,7 @@
 This was the readme for 0.2.0, I'll clean up later
 ## How to use
 1. Paste project instructions into project instructions
-2. Paste style(s) into a style (custom entry) - one for ET on, other for ET off
+2. Paste style into a style
 3. Open a chat in the project, ensuring the style is active
 
 ## Tips
