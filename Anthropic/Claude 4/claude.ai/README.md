@@ -1,8 +1,9 @@
 ## How to use
-1. Paste project instructions into project instructions
-2. Paste style(s) into a style (custom entry) - one for ET on, other for ET off
+1. Set up and enable at least one custom Style (Describe style instead -> Use custom instructions). I have two options, Extended Thinking (ET henceforth) on and off.
+2. Project instructions go in project instructions (subscribers only)
 
-(Alternative step 1 for free users: send instructions as first message. Normally this converts to a file which you don't want. Instead, edit the first message of an existing conversation and paste the instructions. Ensure a style is active already for this first message.)
+(Alternative step 2 for free users: send instructions as first message. Normally a large paste like this converts to a file, which you don't want. Instead, edit the first message of an existing conversation and paste the instructions. I suggest ET off for this first message.)
+
 ## WARNING
 BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
 1. First banner warns you gently about policy, does nothing
