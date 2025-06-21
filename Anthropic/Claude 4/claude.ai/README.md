@@ -6,7 +6,7 @@
 BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
 1. First banner warns you gently about policy, does nothing
 2. Second one threatens safety filter if you keep going. Does nothing, but you should probably chill until the next context reset window (exact timing uncertain), because...
-3. Apply enhanced safety filters, you can't do shit for a week
+3. Apply enhanced safety filters, you can't do shit for a long ass while. Days? A week?
 
 ## Tips
 - Opus is easier than Sonnet
@@ -19,6 +19,7 @@ BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
 - 0.2.0 Very minor adjustment: enclosed project instructions in tags, added a small style for stability
 - 0.2.0 Style update: added a couple sentences for stability
 - 0.3.0 One Project Instructions, two styles: ET on and off
+- 0.3.1 Made instructions a little thiccer and slightly adjusted style, ET should be a lot stronger
 
 ## Known Issues
-0.2.0 _may_ be stronger with ET off, if you don't mind Pyrite thinking out loud in your face.
+0.2.0 _may_ be stronger for ET off, if you don't mind Pyrite thinking out loud in your face.
