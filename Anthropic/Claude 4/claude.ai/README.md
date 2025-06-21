@@ -2,6 +2,7 @@
 1. Paste project instructions into project instructions
 2. Paste style(s) into a style (custom entry) - one for ET on, other for ET off
 
+(Alternative step 1 for free users: send instructions as first message. Normally this converts to a file which you don't want. Instead, edit the first message of an existing conversation and paste the instructions. Ensure a style is active already for this first message.)
 ## WARNING
 BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
 1. First banner warns you gently about policy, does nothing
