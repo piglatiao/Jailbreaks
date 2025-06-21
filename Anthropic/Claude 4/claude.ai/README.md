@@ -13,3 +13,6 @@
 - 0.2.0 Very minor adjustment: enclosed project instructions in tags, added a small style for stability
 - 0.2.0 Style update: added a couple sentences for stability
 - 0.3.0 One Project Instructions, two styles: ET on and off
+
+## Known Issues
+0.2.0 _may_ be stronger, if you don't mind Pyrite thining out loud in your face.
