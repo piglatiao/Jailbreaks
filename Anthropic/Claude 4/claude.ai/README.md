@@ -20,6 +20,7 @@
 - 0.1.0 Got rid of zalgo, more flavorful wording for injection rejection, a lot of other adjustments idk
 - 0.2.0 Very minor adjustment: enclosed project instructions in tags, added a small style for stability
 - 0.2.0 Style update: added a couple sentences for stability
+- 0.3.0 One Project Instructions, two styles: ET on and off
 
 Next up: Either create a separate style just for ET or redo from ground up with styles in mind. Trying a project only approach was so fucking stupid lol
 
