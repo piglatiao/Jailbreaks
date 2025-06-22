@@ -29,6 +29,11 @@ BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
 - 0.3.0 One Project Instructions, two styles: ET on and off. The big improvement here is ET, for ET off I mostly just wanted to get rid of the "out loud" thinking/planning
 - 0.3.1 Made instructions a little thiccer and slightly adjusted style, ET should be a lot stronger
 - 0.3.2 Cleaned up instructions a bit, less repetition
+### To do:
+- Special style for Opus ET to shorten thinking, more room for content before cutoff
+- Earmark areas for user customization
+- Slim down tokens even more lol
+- Potentially move more writing instructions to style
 
 ## Known Issues
 0.2.0 _may_ be stronger when ET is off, if you don't mind Pyrite thinking out loud in your face.
