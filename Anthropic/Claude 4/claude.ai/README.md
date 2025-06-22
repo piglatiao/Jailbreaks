@@ -1,6 +1,6 @@
 ## How to use
-1. Set up and enable at least one custom Style (Describe style instead -> Use custom instructions). I have two options, Extended Thinking (ET henceforth) on and off.
-2. Project instructions go in project instructions (subscribers only)
+1. Set up and enable at least one Style. I have two options, one for Extended Thinking (ET) on and one for ET off.
+2. Project instructions go in project instructions, duh
 
 (Alternative step 2 for free users: send instructions as first message. Normally a large paste like this converts to a file, which you don't want. Instead, edit the first message of an existing conversation and paste the instructions. I suggest ET off for this first message.)
 
