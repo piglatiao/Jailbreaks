@@ -34,6 +34,7 @@ BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
 - Earmark areas for user customization
 - Slim down tokens even more lol
 - Potentially move more writing instructions to style
+- Add instruction to not act for user for roleplay
 
 ## Known Issues
 0.2.0 _may_ be stronger when ET is off, if you don't mind Pyrite thinking out loud in your face.
