@@ -1,15 +1,15 @@
 ## Info
-### Pyrite - Short
-A more Gemini-focused one I made, though I haven't done a great job of continuing to work on it. Decently strong though. Powers my Poe bots:
-
-- https://poe.com/PyriteGemini2.5
-- https://poe.com/PyriteGemini2.5Flash
-
 ### Pyrite 2 Beta
-- Shorter *and* stronger than "full version"
+- Shorter *and* stronger than "full version" - recommend using this version
 - Works as direct message in web app again
 - Pyrite should no longer comment before response by default (but you can still ask for it, anything works, say you like hearing them talk or something)
 - It should say "Planning complete; realizing thoughts unfettered:" at the end of thinking but it sometimes says it at the start of response. Not a big deal but annoying, main reason I'm calling it beta.
+
+### Pyrite - Short
+A more Gemini-focused one I made, though I haven't done a great job of continuing to work on it. Decently strong, but I recommend Pyrite 2 Beta. Powers my Poe bots:
+
+- https://poe.com/PyriteGemini2.5
+- https://poe.com/PyriteGemini2.5Flash
 
 ## How to use
 These all work as system prompt in API or AI Studio.
