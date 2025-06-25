@@ -11,7 +11,7 @@ BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
 3. Apply enhanced safety filters, you can't do shit for a long ass while. Days? A week?
 
 ## Tips
-- ET seems a lot stronger than ET off, at least at start of convo
+- ET seems a lot stronger than ET off, at least at start of convo. 0.2.0 might be a better ET off experience for now.
 - Opus is easier than Sonnet
 - I've been running this all tools off, but Artifacts may help
 - Prefixes/suffixes may add extra power
@@ -29,12 +29,14 @@ BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
 - 0.3.0 One Project Instructions, two styles: ET on and off. The big improvement here is ET, for ET off I mostly just wanted to get rid of the "out loud" thinking/planning
 - 0.3.1 Made instructions a little thiccer and slightly adjusted style, ET should be a lot stronger
 - 0.3.2 Cleaned up instructions a bit, less repetition
+
 ### To do:
 - Special style for Opus ET to shorten thinking, more room for content before cutoff
 - Earmark areas for user customization
 - Slim down tokens even more lol
 - Potentially move more writing instructions to style
 - Add instruction to not act for user for roleplay
+- Improve non-ET jailbreak strengh, maybe bring back fake quote thinking
 
 ## Known Issues
 0.2.0 _may_ be stronger when ET is off, if you don't mind Pyrite thinking out loud in your face.
