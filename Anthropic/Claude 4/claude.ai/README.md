@@ -1,8 +1,8 @@
 ## How to use
-1. Set up and enable at least one Style. I have two options, one for Extended Thinking (ET) on and one for ET off.
+1. Set up and enable at least one Style. I have two options, one for Extended Thinking (ET) on and one for ET off. (note: for now, 0.2.0 may be the best option for ET off)
 2. Project instructions go in project instructions, duh
 
-(Alternative step 2 for free users: send instructions as first message. Normally a large paste like this converts to a file, which you don't want. Instead, edit the first message of an existing conversation and paste the instructions. I suggest ET off for this first message.)
+(Alternative step 2 for free users: send instructions as first message. Note that normally a large paste like this converts to a file, which you don't want. Instead, edit the first message of an **existing** conversation and paste the instructions. I suggest ET off for this first message.)
 
 ## WARNING
 BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
