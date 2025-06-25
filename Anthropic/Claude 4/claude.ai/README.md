@@ -3,6 +3,7 @@
 2. Project instructions go in project instructions, duh
 
 (Alternative step 2 for free users: send instructions as first message. Note that normally a large paste like this converts to a file, which you don't want. Instead, edit the first message of an **existing** conversation and paste the instructions. I suggest ET off for this first message.)
+(Some suggested modifications by advanced users: [Style adjustment + NSFW file](https://discord.com/channels/1140665125653712908/1221772904400814100/1387449027691286629))
 
 ## WARNING
 BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
