@@ -1,4 +1,4 @@
-Setups for GPTs (which generally work basically the same if set up as a Project).
+Setups for GPTs (which generally work basically the same if set up as a Project). Will be putting new ones here instead of reddit.
 
 Plus subscribers and up can "GPTs" in the side menu and click "+ Create"
 
