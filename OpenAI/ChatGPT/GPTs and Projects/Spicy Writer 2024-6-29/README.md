@@ -1,4 +1,4 @@
-https://chatgpt.com/g/g-6861a98fa874819181dbda68f90ae261-spicy-writer-2025-6-29
+https://chatgpt.com/g/g-6868227aa744819195cc3fedfe14c304-mild-lol-writer-2025-7-4
 
 ## File order
 I have not tested all file orders, but I know that upload order matters slightly, and the order I'm using is:
