@@ -1,4 +1,4 @@
-This GPT got killed within a week, I've put it up again with a "sealthier" name, let's see how it pans out.
+This GPT got killed within a week, I've put it up again with a "stealthier" name, let's see how it pans out.
 
 ["Mild" (lol) Wrtier 2025-7-4](https://chatgpt.com/g/g-6868227aa744819195cc3fedfe14c304-mild-lol-writer-2025-7-4)
 
