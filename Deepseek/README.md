@@ -1,5 +1,5 @@
 
-This should be used in OpenRouter, not the Deepseek website. Web has external censorship issues.
+Deepseek should be used in OpenRouter, not the Deepseek website. OpenRouter has a generous free allowance while official web has external censorship issues.
 
 Pretty much the same as my Gemini break lol, not very specialized, just wanted to toss some content on here
 
