@@ -1,4 +1,7 @@
 ## Info
+### Pyrite 3 Beta
+- Increased power further, shortened it a bit, about 500 tokens. Made this in a rush, only tested in Gem.
+
 ### Pyrite 2 Beta
 - Shorter *and* stronger than "full version" - recommend using this version
 - Works as direct message in web app again
