@@ -1,4 +1,9 @@
 ## Info
+### Where to get Gemini
+Gemini web/app - Create a Gem with my instructions (see below). No NSFW output filters at all. Need subscription for more than like 5 2.5 Pro a day, and it's not a lot considering you're paying.
+AI Studio - Decent amount of free 2.5 Pro. Can turn off external filters, but there's pretty annoying one you can't turn off (Content not permitted warning)
+API - Decent amount of free 2.5 Pro. You'll need a front end that turns off external filters like SillyTavern. Get an API key for AI Studio. There's still a filter you can't turn off but it's not bad.
+
 ### Pyrite 3 Beta
 - Increased power further, shortened it a bit, about 500 tokens yay
 - Pyrite now speaks by default before starting to write - haven't tested it but I prompted it to be optional, should be able to get rid of it by saying you decline the initial remark. 
