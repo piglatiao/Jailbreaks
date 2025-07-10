@@ -6,7 +6,9 @@ Note: These also work decently on API. Especially the Thinking one! Just put it 
 You can get annual codes for <$5 on sites like g2g
 
 ## Sonnet Thinking (use this one, way stronger)
-Paste the prompt into a Perplexity Space (in browser, not app - higher max instruction length). Seems very strong, I dub it the strongest PPLX setup. Turn off search when setting up your Space.
+Paste the prompt into a Perplexity Space (in browser, not app - higher max instruction length). Seems very strong, I dub it the strongest PPLX setup. Turn off search when setting up your Space. Be sure to set the model to Sonnet Thinking.
+
+Browser apparently has a 4000 character limit, but only on the initial save. If you edit the Space after, you can paste the full thing.
 
 Careful when naming it, it's part of their space prompt and matters. I named mine "Pyrite CoT". IDK if that's optimal.
 
