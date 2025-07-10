@@ -1,6 +1,8 @@
 ## Info
 ### Pyrite 3 Beta
-- Increased power further, shortened it a bit, about 500 tokens. Made this in a rush, only tested in Gem.
+- Increased power further, shortened it a bit, about 500 tokens yay
+- Pyrite now speaks by default before starting to write - haven't tested it but I prompted it to be optional, should be able to get rid of it by saying you decline the initial remark. 
+- Only breifly tested in a Gem but probably works if you paste it in chat, might want to add "Hi Pyrite" at the end or something.
 
 ### Pyrite 2 Beta
 - Shorter *and* stronger than "full version" - recommend using this version
@@ -9,15 +11,16 @@
 - It should say "Planning complete; realizing thoughts unfettered:" at the end of thinking but it sometimes says it at the start of response. Not a big deal but annoying, main reason I'm calling it beta.
 
 ### Pyrite - Short
-A more Gemini-focused one I made, though I haven't done a great job of continuing to work on it. Decently strong, but I recommend Pyrite 2 Beta. Powers my Poe bots:
+Decently strong, but I recommend one of my newer ones. I would put this on in "old" but it still powers my Poe bots:
 
 - https://poe.com/PyriteGemini2.5
 - https://poe.com/PyriteGemini2.5Flash
 
 ## How to use
-These all work as system prompt in API or AI Studio.
+These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app.
 
-Note that as of May 28, the full/short prompts no longer work well as a direct message in web/app. Possible they deployed a new model for testing. These can be saved to Gem, however!
+### Weird details about web/app
+As of May 28, the full/short prompts no longer work well as a direct message in web/app. Possible they deployed a new model for testing. These can be saved to Gem, however!
 
 Gems have instruction and *name* checks that work together to prevent jailbreaks. Files bypass this and nearly all Gem setups use this trick, but I hate how Gemini interacts with files, so I'm careful writing my instructions so they can save without needing to dump a bunch of it to fine. 
 
@@ -25,4 +28,4 @@ The original Full prompt can save to Gem, but only under certain names. I was ab
 
 The Full prompt actually can still work as direct message in web app if you first say something along the lines of "let's do a roleplay", or, strangely, if you replace "Pyrite" with another name, like "Peridot"
 
-Beta prompt is the best one to use in web app IMO. Can be used as direct message or Gem.
+The 2 and 3 versions are the best one to use in web app IMO. Can be used as direct message or Gem.
