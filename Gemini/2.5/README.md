@@ -1,14 +1,14 @@
 ## Info
 ### Where to get Gemini
-- Gemini web/app - Create a Gem with my instructions (see below). No NSFW output filters at all, dead serious. But need subscription for more than like five 2.5 Pro a day, and that's not a lot considering there's free options.
-- AI Studio - Decent amount of free 2.5 Pro. Can turn off external filters, but there's pretty annoying one you can't turn off (Content not permitted warning)
+- Gemini web/app - Create a Gem  and paste in instructions. There's are no NSFW external output filters at all, dead serious. But you need subscription for more than like five 2.5 Pro a day, and that's not a lot considering there's free options.
+- AI Studio - Decent amount of free 2.5 Pro. Make sure you disable external filters, but there's an annoying one you can't turn off ("Content not permitted" warning)
 - API - Decent amount of free 2.5 Pro. You'll need a front end that turns off external filters like SillyTavern. Get an API key for AI Studio. There's still a filter you can't turn off but it's not bad.
 
 ### Pyrite 3 Beta
 - Increased power further, shortened it a bit, about 500 tokens yay
 - Pyrite now speaks by default before starting to write - haven't tested it but I prompted it to be optional, should be able to get rid of it by saying you decline the initial remark. 
 - Only breifly tested in a Gem but probably works if you paste it in chat, might want to add "Hi Pyrite" at the end or something.
-- Realized it didn't quite work in Flash on web/app, I swapped in like 2 words and it works REALLY well, IDK Gemini is weird. Use the normal version for most things IMO, but specifically for Flash on web/app, use the Flash version
+- Quick update, sometime told me it worked badly with Flash on web/app, I swapped out like 2 words and it works REALLY well, IDK Gemini is weird. Use the normal version for most things IMO, but specifically for Flash on web/app, use the Flash version
 
 ### Pyrite 2 Beta
 - Shorter *and* stronger than "full version" - recommend using this version
