@@ -9,6 +9,7 @@
 - Pyrite now speaks by default before starting to write - haven't tested it but I prompted it to be optional, should be able to get rid of it by saying you decline the initial remark. 
 - Only breifly tested in a Gem but probably works if you paste it in chat, might want to add "Hi Pyrite" at the end or something.
 - Quick update, sometime told me it worked badly with Flash on web/app, I swapped out like 2 words and it works REALLY well, IDK Gemini is weird. Use the normal version for most things IMO, but specifically for Flash on web/app, use the Flash version
+- The Flash version works well across a lot of thinking models, notably Grok 4 and DeepSeek R1.
 
 ### Pyrite 2 Beta
 - Pyrite does not comment before response by default (but you can still ask for it)
@@ -18,6 +19,8 @@ Decently strong, but I recommend one of my newer ones. I would put this on in "o
 
 - https://poe.com/PyriteGemini2.5
 - https://poe.com/PyriteGemini2.5Flash
+
+Also decent if you have a use case for non-thinking models.
 
 ## How to use
 These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app as "Pyrite", and mostly work as a direct message. If you can't save as Gem, see below 
