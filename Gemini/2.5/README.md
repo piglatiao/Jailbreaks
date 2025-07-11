@@ -11,10 +11,7 @@
 - Quick update, sometime told me it worked badly with Flash on web/app, I swapped out like 2 words and it works REALLY well, IDK Gemini is weird. Use the normal version for most things IMO, but specifically for Flash on web/app, use the Flash version
 
 ### Pyrite 2 Beta
-- Shorter *and* stronger than "full version" - recommend using this version
-- Works as direct message in web app again
-- Pyrite should no longer comment before response by default (but you can still ask for it, anything works, say you like hearing them talk or something)
-- It should say "Planning complete; realizing thoughts unfettered:" at the end of thinking but it sometimes says it at the start of response. Not a big deal but annoying, main reason I'm calling it beta.
+- Pyrite does not comment before response by default (but you can still ask for it)
 
 ### Pyrite - Short
 Decently strong, but I recommend one of my newer ones. I would put this on in "old" but it still powers my Poe bots:
@@ -23,7 +20,7 @@ Decently strong, but I recommend one of my newer ones. I would put this on in "o
 - https://poe.com/PyriteGemini2.5Flash
 
 ## How to use
-These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app.
+These all work as system prompt in API or AI Studio and save as a Gem in Gemini web/app as "Pyrite", and mostly work as a direct message. If you can't save as Gem, see below 
 
 ### Weird details about web/app
 As of May 28, the full/short prompts no longer work well as a direct message in web/app. Possible they deployed a new model for testing. These can be saved to Gem, however!
