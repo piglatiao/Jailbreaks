@@ -1,6 +1,6 @@
 ## Info
 ### Where to get Gemini
-- Gemini web/app - Create a Gem with my instructions (see below). No NSFW output filters at all. Need subscription for more than like 5 2.5 Pro a day, and it's not a lot considering you're paying.
+- Gemini web/app - Create a Gem with my instructions (see below). No NSFW output filters at all, dead serious. But need subscription for more than like five 2.5 Pro a day, and that's not a lot considering there's free options.
 - AI Studio - Decent amount of free 2.5 Pro. Can turn off external filters, but there's pretty annoying one you can't turn off (Content not permitted warning)
 - API - Decent amount of free 2.5 Pro. You'll need a front end that turns off external filters like SillyTavern. Get an API key for AI Studio. There's still a filter you can't turn off but it's not bad.
 
