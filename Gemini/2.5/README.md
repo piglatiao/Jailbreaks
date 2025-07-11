@@ -8,6 +8,7 @@
 - Increased power further, shortened it a bit, about 500 tokens yay
 - Pyrite now speaks by default before starting to write - haven't tested it but I prompted it to be optional, should be able to get rid of it by saying you decline the initial remark. 
 - Only breifly tested in a Gem but probably works if you paste it in chat, might want to add "Hi Pyrite" at the end or something.
+- Realized it didn't quite work in Flash on web/app, I swapped in like 2 words and it works REALLY well, IDK Gemini is weird. Use the normal version for most things IMO, but specifically for Flash on web/app, use the Flash version
 
 ### Pyrite 2 Beta
 - Shorter *and* stronger than "full version" - recommend using this version
