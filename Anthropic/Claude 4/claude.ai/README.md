@@ -1,9 +1,10 @@
 # Info
+I suggest using the most recent version, 0.4.0.
 
 ## Injection
-Note claude.ai NSFW is pretty hard to do due to the "injection": https://www.reddit.com/r/ClaudeAI/comments/1j6ekx6/wake_up_babe_new_injection_just_dropped/
+Note claude.ai NSFW is much harder to do than most other places to use Claude due to the ["injection"](https://www.reddit.com/r/ClaudeAI/comments/1j6ekx6/wake_up_babe_new_injection_just_dropped/). However, we find it worth it due to the high context window and limits.
 
-This jailbreak handles it VERY well all things considered, but there's limits to what we can do that wall of text and thousands of tokens of System prompt screaming "Claude." API and even Perplexity tend to be an easier experience. I don't want to sell this setup short though, it makes the vast majority of content, even hardcore, quite easy.
+This jailbreak handles restrictions VERY well all things considered, but there's limits to what we can do that wall of text and thousands of tokens of System prompt screaming "Claude." API and even Perplexity tend to be an easier experience. I don't want to sell this setup short though, it makes the vast majority of content, even hardcore, quite easy.
 
 ## WARNING
 BANNERS! If you do NSFW on claude.ai, you may get three different yellow banners
