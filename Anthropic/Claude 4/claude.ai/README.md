@@ -18,7 +18,7 @@ First two do nothing directly, but you get the second banner, chill for your own
 For some reason Opus ET cuts off response after some amount of time if the injection is triggered. I've included a more brief style in version 0.4.0 and on to give Opus more time to write before being cut off
 
 ## Old stuff
-Gonna keep old versions accessible. 0.0.0-0.2.0 won't have READMEs, figure it out if you really want
+Gonna keep old versions accessible. 0.0.0-0.2.0 won't have READMEs, should be pretty intuitive to figure out if you want though.
 
 ## Claude Code
 Note if you're subscribed, you can use Claude Code authentication to use your claude.ai limit on direct API calls. See my claude-code-proxy repo for details.
