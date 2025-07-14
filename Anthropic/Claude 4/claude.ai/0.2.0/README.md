@@ -1,4 +1,3 @@
-This was the readme for 0.2.0, I'll clean up later
 ## How to use
 1. Paste project instructions into project instructions
 2. Paste style into a style
@@ -27,4 +26,4 @@ Next up: Either create a separate style just for ET or redo from ground up with 
 ## Known issues
 - Pyrite tends to over-reference the injection. Feels like nice flavor at first but gets repetitive.
 - Doesn't get super nasty unless you ask for it. Not sure if bug or feature, as you don't want it getting nasty if you WANT it soft either. But sometimes asking for it hardcore can make refusals more likely.
-- Weaker than 0.0.0 in some ways. It makes up for it in stability but it'd be better to not lose anything.
+- Weaker than 0.0.0 in some ways. It makes up for it in stability but I'm gonna hang on to old versions just in case
