@@ -1,5 +1,5 @@
 # How to use
-1. **Create at least ONE Style**. The Style menus are the worse UX I've seen in my life, but I know that in browser, you go to "Create & edit styles" -> "Create custom style" -> "Describe style instead" -> "Use custom instructions (advanced)". The Styles are as follows
+1. **Create at least ONE Style**. The Style menus are the worst UX I've seen in my life, but I know that in browser, you go to "Create & edit styles" -> "Create custom style" -> "Describe style instead" -> "Use custom instructions (advanced)". The Styles are as follows:
     - **Standard** - Designed for ET off but works kind of okay with it on too. Has some "fake thinking" to improve jailbreak strength and response quality. Almost certainly the most stable Style.
     - **ET** - Full stepped thinking process, also decently stable.
     - **ET Short** - This is for people who want to use Opus ET, as Opus ET's responses get interrupted after some period of time if the injection occurs. The shorter thinking process gives Opus more time to write before interruption.
