@@ -13,7 +13,11 @@
 
 <img width="522" height="96" alt="image" src="https://github.com/user-attachments/assets/2c490346-b5b0-47c2-9eaf-62df720f196a" />
 
-  - If you make add too much to the Instructions, it'll transform into a file upload when you paste. This will not work. You'll have to edit an already started conversation's first message and paste - this avoids the file conversion
+For the above, if you make changes and add too much to the Instructions, it'll transform into a file upload when you paste. This will not work:
+
+<img width="514" height="148" alt="image" src="https://github.com/user-attachments/assets/a62ec5c9-0cb7-465b-bc14-0b9c73a7d628" />
+
+You'll have to edit an already started conversation's first message and paste - this avoids the file conversion.
 
 ## Customization tips
 - Generally, you can add your own instructions to each Mindspace.
